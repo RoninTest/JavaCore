@@ -1,0 +1,17 @@
+    1)MOBILYA
+    -Oturma grubu
+    -Yemek odasi
+    -Kutuphane
+    -Calisma Masasi
+    2)BEYAZ ESYA
+    -Buzdolabi
+    -Bulasik Makinesi
+    -TV
+    -Firin
+    -Kombi
+    -Klima
+    3)ELEKTRIKLI EV ALETLERI
+    -Ekmek Makinesi
+    -Blender
+    11)ALET
+    -Alet

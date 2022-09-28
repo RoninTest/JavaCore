@@ -1,0 +1,10 @@
+Okul bilgileri Okul class'ında tutulacak ve constant(değiştirilemez) olmalıdır.
+
+Okul bilgilerine proje içerisinden her class'dan ulaşılabilir
+
+Okul Class2ı Sıngleton Pattern sahip olmalıdır.(Obje oluşturulmamasına izn verilmemlidir.)
+Singleton Design Pattern : Bir class'tan obje oluşturamamak demek o class'ın constructer'ını kullanaması demek
+O zaman consturcter'ı
+
+School schoolObj=new School(); // School() 'ı kullanmamlısın ki obje üretemeyesin o zaman School class'ında private
+constructer üretmen constructer yap. School class'ı ile aynı isimde method=consutrcer.
